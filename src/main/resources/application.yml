@@ -9,6 +9,7 @@ logging:
     root: ERROR
     ch.chiodoni: DEBUG
     org.springframework: WARN
+    org.springframework.transaction: TRACE
     org.h2: DEBUG
 
 management:
